@@ -1,0 +1,31 @@
+<DOCTYPE!>
+    <html>
+        <head>
+            To Do List
+            </head>
+            <body>
+                <style>
+                    body{background-color:blue;}
+                    li{font:18px;}
+                    li{color:orange ;}
+                    </style>
+
+                    <ul> Wash the car </ul>
+                    <li> Make sure it's cleaned properly before getting it checked </li>
+                    <li> Use microsoft cloths to dry the car off </li>
+
+                    <div>
+                        <ul> Clean the dishes </ul>
+                        <li> Make sure to use gloves </li>
+                        <li> Don't rush like last-time so I wont get spanked <li> 
+                            
+                        </div>
+                            
+                            
+                            <div>
+                                <ul> Feed the dog <ul>
+                                    <li> Only feed Bobby dog food </li>
+                                    <li> Don't get scared if he barks at you </li>
+                                    </div>
+                                    </body>
+                                    </html>
