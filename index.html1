@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+ <head> In the 90'<important></important>
+    <body>
+    <style>
+    
+    body{background-color: yellow;
+         text-align: center;
+        }
+    head{color: lightseagreen;}
+
+    h1{ color:lightblue;
+        text-align:center ;
+    }
+    h2{color:palevioletred;
+       text-align: left;
+    }
+    li{color: mediumorchid;
+       font-size:xx-large;
+    }
+
+    p{color:orange;
+    font-size: large;
+    }
+
+
+
+    <img scr= "file:///Users/corcoding/Desktop/90s_logo_templates_colorful_symbols_sketch_47453.jpeg"
+
+    </style>
+
+    <h1> Booyah! And welcom to It's 90's </h1>
+    <h2>Where everything is Fly up here </h2>
+    <div>
+
+    <p> Don't worry you dont have to be born in the 90's to enjoy whats up here but... </p>
+    <p>If you get lose by the slang we speak then thats Aiight I'm sure you can catch up at some point. </p>
+    
+    </div>
+    <h1> Let me not hold you, Well Let's Explore </h1>
+    <br>
+    <ul> Discovering the 90's</ul>
+
+    <li>  Music</li><br>
+    <li> Sports</li><br>
+    <li> Fashion</li><br>
+    <li> Shows </li><br>
+    <li> Pop Culture </li>
+
+    </head>
+    </body>
+    </html>
