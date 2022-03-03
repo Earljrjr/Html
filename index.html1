@@ -1,13 +1,20 @@
 <!DOCTYPE html>
 <html>
- <head> In the 90'<important></important>
+    <head> In the 90's </head>
     <body>
+        <img src="https://freedesignfile.com/upload/2017/03/The-90s-label-vector-02.jpg"
+        width="150"
+        height="100"
+        length="100"/>
     <style>
     
     body{background-color: yellow;
          text-align: center;
+         margin:25px;
+         padding: 150px;
+         content: 100px;
         }
-    head{color: lightseagreen;}
+    
 
     h1{ color:lightblue;
         text-align:center ;
@@ -19,16 +26,15 @@
        font-size:xx-large;
     }
 
+    ul{font-size: x-large;}
+
     p{color:orange;
     font-size: large;
     }
 
-
-
-    <img scr= "file:///Users/corcoding/Desktop/90s_logo_templates_colorful_symbols_sketch_47453.jpeg"
-
     </style>
 
+<br>
     <h1> Booyah! And welcom to It's 90's </h1>
     <h2>Where everything is Fly up here </h2>
     <div>
@@ -39,7 +45,7 @@
     </div>
     <h1> Let me not hold you, Well Let's Explore </h1>
     <br>
-    <ul> Discovering the 90's</ul>
+    <ul> Discovering the 90's</ul> 
 
     <li>  Music</li><br>
     <li> Sports</li><br>
@@ -47,6 +53,5 @@
     <li> Shows </li><br>
     <li> Pop Culture </li>
 
-    </head>
     </body>
     </html>
