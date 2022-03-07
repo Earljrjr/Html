@@ -1,0 +1,50 @@
+body{background-color: yellow;
+    
+    margin:25px;
+    padding: 150px;
+    content: 100px;
+   }
+
+
+h1{ color:lightblue;
+    text-align: center;
+}
+h2{color:palevioletred;
+  text-align: left;
+}
+li{color: goldenrod;
+   font-size: xx-large;
+}
+
+ul{font-size:x-large;
+
+}
+
+#headerImg{
+position: relative;
+left:auto;
+bottom: auto;
+}
+
+.pie{
+    color:blueviolet;
+    text-align: center;
+}
+
+#eat{
+    font-size: 25px;
+}
+
+#lemon{
+    font-size: 20px;
+}
+
+.list{
+display:grid;
+grid-template-columns: 1fr 1fr ;
+}
+
+.talk{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
