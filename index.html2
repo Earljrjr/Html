@@ -1,0 +1,47 @@
+body{background-color:lightcyan;
+
+
+   }
+
+#headerImg{
+width: 500px;
+height: 500px;
+border: 100px;
+margin: 100px;
+padding: 100px:
+
+}
+
+
+#secondImg{
+    width:500px;
+    height:500px;
+    position: relative;
+    left:415px;
+    bottom: 800px;
+    border:100px;
+    margin:100px;
+    padding:100px;
+}
+
+#thridImg{
+    width:500px;
+    height:500px;
+    border:100px;
+    margin:100px;
+    padding:100px;
+    position: relative;
+    bottom: 1150px;
+    right: 110px;
+}
+
+#fourthImg{
+    width:500px;
+    height:500px;
+    border:100px;
+    margin:100px;
+    padding:100px;
+    position: relative;
+    bottom: 2050px;
+    right: -425px;
+}
